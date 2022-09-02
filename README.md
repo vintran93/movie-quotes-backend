@@ -9,7 +9,7 @@ Try the live version of the app [here](https://vintran93.github.io/movie-quotes-
 
 ## Frontend
 
-Checkout the Ruby on Rails section of the app [here](https://github.com/vintran93/movie-quotes-client).
+Checkout the JavaScript section of the app [here](https://github.com/vintran93/movie-quotes-client).
 
 ## Built With
 
