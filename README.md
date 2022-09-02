@@ -1,24 +1,31 @@
-# README
+## Movie Quotes
+The Movie Quotes App was created using JavaScript for the frontend and Ruby on Rails on the backend. The app allows a user to post a quote from their favorite movies and characters. The user can organize movies and their associated character cards and increment the like button and/or delete a movie or character.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Live Link
 
-Things you may want to cover:
+Try the live version of the app [here](https://vintran93.github.io/movie-quotes-client/).
 
-* Ruby version
+## Frontend
 
-* System dependencies
+Checkout the Ruby on Rails section of the app [here](https://github.com/vintran93/movie-quotes-client).
 
-* Configuration
+## Built With
 
-* Database creation
+* HTML
+* CSS
+* JavaScript
+* Ruby on Rails
 
-* Database initialization
+## Possible features to add
 
-* How to run the test suite
+* Search bar
+* Comments that persist to the database for movies/characters
+* Sort by character name 
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show some support
 
-* Deployment instructions
+Give a ⭐️ if you like this project!
 
-* ...
+## License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed @ [vintran93]
